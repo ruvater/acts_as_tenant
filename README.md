@@ -26,6 +26,11 @@ To use it, add it to your Gemfile:
 gem 'acts_as_tenant'
 ```
 
+**Note**: to make this work, add this to your `application_controller.rb`:
+```ruby
+extend ActsAsTenant::ControllerExtensions
+```
+
 Getting started
 ===============
 There are two steps in adding multi-tenancy to your app with acts_as_tenant:
