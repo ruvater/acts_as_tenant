@@ -1,4 +1,4 @@
-Acts As Tenant
+Acts As Tenant(Rails API version)
 ==============
 
 [![Build Status](https://travis-ci.org/ErwinM/acts_as_tenant.png)](https://travis-ci.org/ErwinM/acts_as_tenant)
